@@ -23,4 +23,5 @@ Features:
 - Alocação de salas;
 - Troca de participantes.
 
-O programa é bem intuitivo, de maneira que a utilização se baseia em cadastros e consultas.
+O programa é bem intuitivo, de maneira que a utilização se baseia em cadastros e consultas. Necessário primeiramente cadastrar as salas e espaços. Após cadastrar
+os participantes.
